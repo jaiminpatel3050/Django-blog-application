@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"array1"
+			],
+			[
+				"o",
+				"ourarray"
+			],
+			[
+				"a",
+				"addr"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"ca",
+				"Categories"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"t",
+				"Tech"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"S",
+				"style\tAttr"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"form",
+				"form-input"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"color",
+				"outline-color"
+			],
+			[
+				"colo",
+				"outline-color"
+			],
+			[
+				"co",
+				"column-fill"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"r",
+				"rgba"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"w",
+				"w3schools"
+			],
+			[
+				"bd",
+				"bdo\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"R",
+				"reset"
+			],
+			[
+				"n",
+				"No"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"j",
+				"j.u\tjava.util."
+			],
+			[
+				"im",
+				"im\timport"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Sublime Text 3/js/py.py",
+		"/C/Program Files/Sublime Text 3/js/array.js",
+		"/C/Program Files/Sublime Text 3/js/hello.js",
+		"/C/Program Files/Sublime Text 3/js/demo.html",
+		"/C/Program Files/Sublime Text 3/demo.html",
+		"/C/Program Files/Sublime Text 3/demo.py",
+		"/C/Users/jaimin patel/Desktop/sub.py",
+		"/C/Users/jaimin patel/Desktop/Debate/4.categories/catgories.html",
+		"/C/Users/jaimin patel/Desktop/Debate/3.home/home.html",
+		"/C/Users/jaimin patel/Desktop/Debate/4.categories/css/cat.css",
+		"/C/Users/jaimin patel/Desktop/Debate/3.home/css/home.css",
+		"/C/Users/jaimin patel/Desktop/Debate/7.vedio/css/video.css",
+		"/C/Users/jaimin patel/Desktop/Debate/7.vedio/video.html",
+		"/C/Users/jaimin patel/Desktop/Debate/page2/css/page2.css",
+		"/C/Users/jaimin patel/Desktop/Debate/vedio/css/video.css",
+		"/C/Users/jaimin patel/Desktop/Debate/HJ/css/HJ.css",
+		"/C/Users/jaimin patel/Desktop/Debate/HJ/HJ.html",
+		"/C/Users/jaimin patel/Desktop/Debate/page2/page2.html",
+		"/C/Users/jaimin patel/Desktop/Debate/categories/css/cat.css",
+		"/C/Users/jaimin patel/Desktop/Debate/login/loginpage.html",
+		"/C/Users/jaimin patel/Desktop/Debate/vedio/video.html",
+		"/C/Users/jaimin patel/Desktop/Debate/categories/catgories.html",
+		"/C/Users/jaimin patel/Desktop/Silverwing/Html sw/css/style.css",
+		"/C/Users/jaimin patel/Desktop/Silverwing/Html sw/loginpage.html",
+		"/C/Users/jaimin patel/Desktop/signup/signup.html",
+		"/C/Users/jaimin patel/Desktop/signup/css/style.css",
+		"/C/My Web Sites/mydemo/www.bestsoftoffers.com/Template/Resume/man/index.html",
+		"/C/Users/jaimin patel/Desktop/hexa/style.css",
+		"/C/Users/jaimin patel/Desktop/Html sw/css/font-awesome-4.7.0/css/font-awesome.css",
+		"/C/Users/jaimin patel/Desktop/hexa/index.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/loginpage.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/practice.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/css/style.css",
+		"/C/Users/jaimin patel/Desktop/Html sw/ex.java",
+		"/C/Users/jaimin patel/Desktop/hexa/js/headlines.js",
+		"/C/Users/jaimin patel/Desktop/hexa/fonts/glyphicons-halflings-regular.html",
+		"/C/Users/jaimin patel/Desktop/hexa/fonts/fontawesome-webfont3e6e.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/Demo2.html",
+		"/C/My Web Sites/mydemo/index.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/D.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/Demo3.html",
+		"/C/Users/jaimin patel/Desktop/Html sw/demo.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
